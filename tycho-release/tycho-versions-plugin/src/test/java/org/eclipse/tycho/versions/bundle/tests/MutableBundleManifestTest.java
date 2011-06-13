@@ -7,6 +7,7 @@
  *
  * Contributors:
  *    Sonatype Inc. - initial API and implementation
+ *    Beat Strasser (Inventage AG) - preserve EOL in manifests
  *******************************************************************************/
 package org.eclipse.tycho.versions.bundle.tests;
 
