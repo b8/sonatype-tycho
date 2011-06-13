@@ -1,12 +1,12 @@
 /*******************************************************************************
- * Copyright (c) 2008, 2011 Sonatype Inc. and others.
+ * Copyright (c) 2011 Inventage AG.
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution, and is available at
  * http://www.eclipse.org/legal/epl-v10.html
  *
  * Contributors:
- *    Sonatype Inc. - initial API and implementation
+ *    Beat Strasser (Inventage AG) - preserve feature url in site.xml
  *******************************************************************************/
 package org.eclipse.tycho.versions.manipulation;
 

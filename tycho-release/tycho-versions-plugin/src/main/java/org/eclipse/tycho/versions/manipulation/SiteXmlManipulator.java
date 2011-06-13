@@ -7,6 +7,7 @@
  *
  * Contributors:
  *    Sonatype Inc. - initial API and implementation
+ *    Beat Strasser (Inventage AG) - preserve feature url in site.xml
  *******************************************************************************/
 package org.eclipse.tycho.versions.manipulation;
 
